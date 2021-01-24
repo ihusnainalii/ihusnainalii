@@ -4,8 +4,8 @@ Happy days 🤞🤞🤞🤞🤞🤞🤞🤞🤞🤞🤞🤞🤞🤞🤞🤞🤞�
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ihusnainalii&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/ihusnainalii "trophy")
 
-[![GitHub](https://img.shields.io/github/followers/daisukenagata?style=social)](https://github.com/daisukenagata "GitHub")
-[![Twitter](https://img.shields.io/twitter/follow/dbank0208?style=social)](https://twitter.com/dbank0208 "Twitter")
+[![GitHub](https://img.shields.io/github/followers/daisukenagata?style=social)](https://github.com/ihusnainalii "GitHub")
+[![Twitter](https://img.shields.io/twitter/follow/imiosengineer?style=social)](https://twitter.com/imiosengineer "Twitter")
 
 
 <!--
