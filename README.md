@@ -1,7 +1,5 @@
-<h1 align="center">**Senior Software Engineer (iOS | ObjectiveC | Augmented reality | CoreML | RToolKit) at ILI.DIGITAL AG**</h1>
-<br>
 <h1 align="center">Hi 👋, I'm Husnain Ali</h1>
-<h3 align="center">A passionate iOS developer from Pakistan</h3>
+<h3 align="center">A passionate Senior Software Engineer (iOS | ObjectiveC | Augmented reality | CoreML | RToolKit) at ILI.DIGITAL AG</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihusnainalii&label=Profile%20views&color=0e75b6&style=flat" alt="ihusnainalii" /> </p>
 
