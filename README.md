@@ -16,7 +16,7 @@
 <a href="https://twitter.com/imiosengineer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imiosengineer" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/husnain-ali-819007108/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="husnain-ali-819007108/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/husnain.ali.1428/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="husnain.ali.1428/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/husnainali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="husnainali" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ali” target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ali" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
