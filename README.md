@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/imiosengineer" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/imiosengineer?logo=twitter&style=for-the-badge" alt="https://twitter.com/imiosengineer" /></a> </p>
 
-- 🌱 I’m currently learning **React for web fronetend**
+- 🌱 I’m currently learning **SwiftUI**
 
 - 💬 Ask me about **Swift, Objective-c**
 
