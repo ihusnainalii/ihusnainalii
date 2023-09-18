@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Husnain Ali</h1>
-<h3 align="center">Innovative and goal-oriented mobile application engineer with 5 and half years of professional experience in dynamic and deadline-driven work environments. Enthusiastic about developing practical and time- saving software solutions. Adept at identifying issues with existing softwareand creating innovative new software programs. Currently aspiring to be an expert iOS & React Native developer to implement the smoothest user experience for hybrid and native iOS apps.</h3>
+<h3 align="center">Innovative and goal-oriented mobile application engineer with over 6 years of professional experience in dynamic and deadline-driven work environments. Enthusiastic about developing practical and time- saving software solutions. Adept at identifying issues with existing softwareand creating innovative new software programs. Currently aspiring to be an expert iOS & React Native developer to implement the smoothest user experience for hybrid and native iOS apps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihusnainalii&label=Profile%20views&color=0e75b6&style=flat" alt="ihusnainalii" /> </p>
 
