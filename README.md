@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihusnainalii" alt="ihusnainalii" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/imiosengineer" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/imiosengineer?logo=twitter&style=for-the-badge" alt="https://twitter.com/imiosengineer" /></a> </p>
-
 - 🌱 I’m currently learning **React for web fronetend**
 
 - 👨‍💻 All of my projects are available at [https://ihusnainalii.github.io](https://ihusnainalii.github.io)
