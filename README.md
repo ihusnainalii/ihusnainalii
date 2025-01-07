@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Husnain Ali</h1>
-<h3 align="center">Innovative and goal-oriented mobile application engineer with over 7 of professional experience in dynamic and deadline-driven work environments. Enthusiastic about developing practical and time- saving software solutions. Adept at identifying issues with existing softwareand creating innovative new software programs. Currently aspiring to be an expert iOS & React Native developer to implement the smoothest user experience for hybrid and native iOS apps.</h3>
+<h3 align="center">Innovative and results-driven mobile application engineer with over 7 years of professional experience in fast-paced, deadline-oriented environments. Passionate about crafting efficient, time-saving software solutions and skilled in identifying issues with existing applications while developing innovative, high-quality software. Currently focused on becoming an expert iOS & React Native developer, with a goal of delivering seamless user experiences for both hybrid and native iOS apps. Additionally, I am expanding my expertise in DevOps to enhance automation, deployment processes, and continuous integration for optimal performance and scalability.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihusnainalii&label=Profile%20views&color=0e75b6&style=flat" alt="ihusnainalii" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihusnainalii" alt="ihusnainalii" /></a> </p>
 
-- 🌱 I’m currently learning **React for web fronetend**
+- 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [https://ihusnainalii.github.io](https://ihusnainalii.github.io)
 
