@@ -9,6 +9,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/husnain-ali-819007108/](https://www.linkedin.com/in/husnain-ali-819007108/)
 - ⚡ Fun fact **My dreams are sometimes in French or Spanish.**
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihusnainalii&label=Profile%20views&color=0e75b6&style=flat" alt="ihusnainalii" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihusnainalii" alt="ihusnainalii" /></a> </p>
 
