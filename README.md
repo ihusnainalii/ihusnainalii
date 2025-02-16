@@ -13,10 +13,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihusnainalii&label=Profile%20views&color=0e75b6&style=flat" alt="ihusnainalii" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihusnainalii" alt="ihusnainalii" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/imiosengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/imiosengineer" height="30" width="40" /></a>
@@ -25,7 +21,8 @@
 <a href="https://medium.com/@husnainali593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@husnainali593" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+**<h3 align="left">Languages and Tools:</h3>**
+<p><strong>Below is a comprehensive list of my technical skills across various categories, including languages, tools, UI design, architectural patterns, and more:</strong></p>
 <table border="1" cellpadding="10" cellspacing="0">
   <thead>
     <tr>
