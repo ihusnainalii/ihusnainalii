@@ -159,6 +159,21 @@ I'm an innovative, results-driven **Principal Software Engineer** with **8+ year
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihusnainalii&theme=tokyonight&no-frame=true&margin-w=8&column=7" alt="trophies" /></a>
 </p>
 
+<!-- ====================== CONTRIBUTION GRAPH ====================== -->
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ihusnainalii/ihusnainalii/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ihusnainalii/ihusnainalii/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ihusnainalii/ihusnainalii/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="90%" />
+</p>
+
 <!-- ====================== LATEST ARTICLES ====================== -->
 ## ✍️ Latest Articles on Medium
 
