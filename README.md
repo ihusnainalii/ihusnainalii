@@ -1,5 +1,5 @@
 <!-- ====================== BANNER ====================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:00C6FF&height=180&section=header&animation=fadeIn" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:9B5DE5,100:00BBF9&height=180&section=header&animation=fadeIn" alt="banner" />
 
 <!-- ====================== HEADER ====================== -->
 <h1 align="center">Hi 👋, I'm Husnain Ali</h1>
@@ -229,4 +229,4 @@ I'm an innovative, results-driven **Principal Software Engineer** with **8+ year
   <i>"Bridging mobile experiences with cloud-native infrastructure - one pipeline at a time."</i>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0E75B6&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BBF9,50:9B5DE5,100:FF6B6B&height=120&section=footer" alt="footer" />
