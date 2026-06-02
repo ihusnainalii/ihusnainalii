@@ -1,89 +1,232 @@
-<h1>Hi 👋, I'm an Innovative, Results-driven Principal Software Engineer and Certified AWS Devops Engineer</h1>
-<p>As a Principal Software Engineer with over 8 𝘆𝗲𝗮𝗿𝘀 of experience in crafting scalable, high-performance solutions, I specialize in integrating modern DevOps practices into mobile application development. My expertise lies in building reliable, automated, and efficient CI/CD workflows, infrastructure management, and cloud-native architectures. With hands-on experience in 𝗔𝗪𝗦, 𝗗𝗼𝗰𝗸𝗲𝗿, 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺, 𝗟𝗮𝗺𝗯𝗱𝗮, and Xcode Cloud, I ensure backend services and deployment pipelines are as robust and scalable as the apps themselves.
+<!-- ====================== BANNER ====================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:00C6FF&height=180&section=header&animation=fadeIn" alt="banner" />
 
-Alongside this, I bring deep technical proficiency in native and hybrid mobile development, working extensively with 𝗦𝘄𝗶𝗳𝘁, 𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲-𝗖, and 𝗥𝗲𝗮𝗰𝘁 𝗡𝗮𝘁𝗶𝘃𝗲. I’ve architected and delivered 30+ iOS applications across diverse industries, focusing on modern frameworks like 𝗦𝘄𝗶𝗳𝘁𝗨𝗜, 𝗖𝗼𝗺𝗯𝗶𝗻𝗲, 𝗥𝘅𝗦𝘄𝗶𝗳𝘁, and 𝗔𝗥𝗞𝗶𝘁, alongside advanced data handling with Core Data and Realm.
+<!-- ====================== HEADER ====================== -->
+<h1 align="center">Hi 👋, I'm Husnain Ali</h1>
+<h3 align="center">Principal DevOps Engineer | CI/CD Automation | DevSecOps | Platform Engineer | Senior iOS Engineer | Mobile Architect</h3>
 
-I thrive in bridging the gap between mobile development and infrastructure, championing clean, maintainable code, scalable backend solutions, and seamless deployment strategies. My experience includes third-party API integrations, in-app purchases, push notifications, and end-to-end testing, all aimed at delivering flawless, production-ready mobile solutions.
-
-Driven by results and a continuous learning mindset, I’m passionate about building end-to-end systems that optimize both app performance and modern development workflows.</p>
-
-- 🌱 I’m currently learning **Devops**
-- 👨‍💻 All of my projects are available at [https://ihusnainalii.github.io](https://ihusnainalii.github.io)
-- 📝 I regularly write articles on [https://medium.com/@husnainali593](https://medium.com/@husnainali593)
-- 💬 Ask me about **Swift, Objective-c**
-- 📫 How to reach me **imiosengineer@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/husnain-ali-819007108/](https://www.linkedin.com/in/husnain-ali-819007108/)
-- ⚡ Fun fact **My dreams are sometimes in French or Spanish.**
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ihusnainalii&label=Profile%20views&color=0e75b6&style=flat" alt="ihusnainalii" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihusnainalii" alt="ihusnainalii" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/imiosengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/imiosengineer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/husnain-ali-819007108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/husnain-ali-819007108/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/husnain.ali.1428/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/husnain.ali.1428/" height="30" width="40" /></a>
-<a href="https://medium.com/@husnainali593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@husnainali593" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/ihusnainalii">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=620&lines=Principal+Software+Engineer;Senior+iOS+Engineer+%26+Mobile+Architect;AWS+Certified+DevOps+Engineer+(Professional);Building+scalable+apps+%26+cloud-native+systems" alt="Typing SVG" />
+  </a>
 </p>
 
-**<h3 align="left">Languages and Tools:</h3>**
-<p><strong>Below is a comprehensive list of my technical skills across various categories, including languages, tools, UI design, architectural patterns, and more:</strong></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/husnain-ali-819007108/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://ihusnainalii.github.io"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://medium.com/@husnainali593"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://twitter.com/imiosengineer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:imiosengineer@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ihusnainalii&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.credly.com/badges/f4b6a0ee-edff-444d-bb7c-f213f52d2af5/public_url"><img src="https://img.shields.io/badge/AWS%20Certified-DevOps%20Professional-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS Certified" /></a>
+  <img src="https://img.shields.io/badge/Experience-8%2B%20Years-success?style=flat" alt="experience" />
+  <img src="https://img.shields.io/badge/iOS%20Apps%20Shipped-30%2B-blue?style=flat&logo=apple&logoColor=white" alt="apps" />
+</p>
+
+<!-- ====================== ABOUT ====================== -->
+## 🚀 About Me
+
+I'm an innovative, results-driven **Principal Software Engineer** with **8+ years** of experience building scalable, high-performance solutions - uniquely bridging **mobile application engineering** and **cloud & DevOps**.
+
+- 🍏 **Mobile:** Architected and shipped **30+ native & hybrid apps** across FinTech, Healthcare, Aviation, AR/VR, Sports & Enterprise - all delivered on time, on budget, with **4.5+ App Store ratings** for global clients across Europe, the Middle East & Asia.
+- ☁️ **DevOps:** Design reliable, automated **CI/CD pipelines**, **Infrastructure as Code**, and **cloud-native architectures** on AWS - cutting release cycles by **90%** and infrastructure costs by **35%**.
+- 🏗️ **Architecture:** Clean, modular, testable systems (MVVM-C, Clean, VIPER) with TDD, scaled to **100K+ users** at **<2% crash rate**.
+- 🔒 **DevSecOps:** PCI-DSS & HIPAA-compliant infrastructure with shift-left security scanning (SonarQube, Trivy, Gitleaks, OWASP).
+- 🌱 Currently going deeper into **DevOps, Kubernetes & Platform Engineering**.
+- ⚡ Fun fact: **My dreams are sometimes in French or Spanish.**
+
+<!-- ====================== EXPERIENCE HIGHLIGHTS ====================== -->
+## 💼 Highlights
+
+| | |
+|---|---|
+| 🎯 **90%** faster release cycles via end-to-end CI/CD | 💰 **35%** lower cloud infrastructure costs |
+| 📱 **30+** iOS / hybrid apps shipped (4.5+ ★) | 👥 Scaled apps to **100K+ users** (<2% crash rate) |
+| ☸️ Production **Kubernetes (EKS)** + GitOps | 🔐 **PCI-DSS / HIPAA** compliant cloud architecture |
+| ⚙️ **60%** faster infra provisioning with IaC | 🚀 **3×** deployment frequency via GitOps |
+| 📉 **40%** less downtime with proactive observability | ✅ **75%** higher code quality via reviews & TDD |
+| 🧩 Decomposed monolith into **11 microservices** | 🤖 Scalable **LLM platform on AWS Bedrock** |
+| 📲 **96%** stability gain (Objective-C → Swift migration) | 🌍 Delivered for clients across **Europe, ME & Asia** |
+
+<!-- ====================== KEY PROJECTS ====================== -->
+## 🧪 Key Projects
+
+**☁️ Cloud & DevOps**
+- **MongoDB on Kubernetes** (EKS) - auto-scaling, highly available production database architecture.
+- **Siemens CIAM** (EKS) - enterprise Customer Identity & Access Management platform.
+- **EC2 → Serverless Migration** (AWS) - Lambda/Fargate modernization cutting infra costs 35%.
+- **StayX Microservices Migration** (AWS) - decomposed monolith into 11 scalable microservices.
+- **Elasticsearch Kubernetes Cluster** (EKS) - high-availability search & log infrastructure.
+- **Zero-Downtime Blue/Green Pipeline** (Jenkins) - automated CI/CD with instant rollback.
+- **Terraform Infrastructure Automation** (Terragrunt) - multi-environment IaC provisioning.
+- **LLM Integration Platform** (AWS Bedrock) - scalable LLM API deployment for enterprise apps.
+- **PCI-DSS Compliance** (AWS) - secure, audit-ready, compliant cloud architecture.
+
+**📱 Mobile (iOS · Hybrid)**
+- **FinPay** (iOS) - FinTech payments app.
+- **MediCare+ / HealthTrack 360 / PharmaLink** (iOS) - healthcare booking, e-commerce & supply chain.
+- **Volocopter Pilot App** (iOS) - aviation & mobility platform.
+- **RENOLIT AXS** (iPad) - AR-based surface measurement tool.
+- **KSC App / KSC TV** (iOS · tvOS) - live sports app & live-stream video platform.
+- **Stay Safe / TE to Go** (Flutter) - workplace safety & supplier collaboration apps.
+- **Jonple** (React Native) - fitness app. · **Want It** (iOS) - buy & sell marketplace. · **Mathlete** (iOS) - education & gamification.
+
+<!-- ====================== CERTIFICATIONS ====================== -->
+## 🎓 Certifications & Training
+
+- 🏅 **AWS Certified DevOps Engineer - Professional** - Amazon Web Services (2025) - [![Verify on Credly](https://img.shields.io/badge/Verify-Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/badges/f4b6a0ee-edff-444d-bb7c-f213f52d2af5/public_url)
+- 📘 **DevOps with AWS** - LinkedIn Learning (2024)
+- 📘 **Composable SwiftUI Architecture Using Redux** - LinkedIn Learning (2024)
+- 📘 **Software Architecture: From Developer to Architect** - LinkedIn Learning (2023)
+- 📘 **Scalable App Development & Modular Architecture** - Udemy (2022)
+- 📱 **Certified iOS Mobile Developer** - eVenture Solutions, EVS Lahore (2017)
+
+<!-- ====================== TECH STACK ====================== -->
+## 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Objective--C-438EFF?style=flat&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+</p>
+
+**Mobile & Cross-Platform**
+<p>
+  <img src="https://img.shields.io/badge/SwiftUI-0066FF?style=flat&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Combine-FF2D55?style=flat&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat&logo=reactivex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ARKit-000000?style=flat&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CoreML-0A84FF?style=flat&logo=apple&logoColor=white"/>
+</p>
+
+**Cloud & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terragrunt-7B42BC?style=flat&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white"/>
+</p>
+
+**CI/CD & DevSecOps**
+<p>
+  <img src="https://img.shields.io/badge/Xcode%20Cloud-1575F9?style=flat&logo=xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat&logo=fastlane&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=aqua&logoColor=white"/>
+</p>
+
+**Databases & Observability**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white"/>
+</p>
+
+<!-- ====================== GITHUB STATS ====================== -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ihusnainalii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihusnainalii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ihusnainalii&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihusnainalii&theme=tokyonight&no-frame=true&margin-w=8&column=7" alt="trophies" /></a>
+</p>
+
+<!-- ====================== LATEST ARTICLES ====================== -->
+## ✍️ Latest Articles on Medium
+
+<!-- BLOG-POST-LIST:START -->
+- [Read my latest articles on Medium →](https://medium.com/@husnainali593)
+<!-- BLOG-POST-LIST:END -->
+
+<!-- ====================== CONNECT ====================== -->
+## 📫 Connect with Me
+
+- 👨‍💻 Portfolio & projects: **[ihusnainalii.github.io](https://ihusnainalii.github.io)**
+- 📝 I write articles on **[Medium](https://medium.com/@husnainali593)**
+- 📄 Experience & background: **[LinkedIn](https://www.linkedin.com/in/husnain-ali-819007108/)**
+- 💬 Ask me about **Swift, Objective-C, iOS Architecture, AWS & DevOps**
+- 📫 Reach me at **imiosengineer@gmail.com**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/husnain-ali-819007108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://twitter.com/imiosengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/husnain.ali.1428/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://medium.com/@husnainali593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+</p>
+
+<!-- ====================== DETAILED SKILLS ====================== -->
+## 🧰 Detailed Skills
+
+### 📱 Mobile Engineering
+
 <table border="1" cellpadding="10" cellspacing="0">
   <thead>
-    <tr>
-      <th>Category</th>
-      <th>Skills</th>
-    </tr>
+    <tr><th>Category</th><th>Skills</th></tr>
   </thead>
   <tbody>
-    <tr>
-      <td><strong>Languages</strong></td>
-      <td>Swift, Objective-C, React Native, Node.js</td>
-    </tr>
-    <tr>
-      <td><strong>Tools</strong></td>
-      <td>Xcode, VSCode, GitHub, Jira, Firebase, Postman, Sketch, Adobe XD, MongoDB Studio, Lens, Docker, pgAdmin, MySQLWorkbench</td>
-    </tr>
-    <tr>
-      <td><strong>UI Design</strong></td>
-      <td>Storyboards, XIBs, Programmatic UI, SwiftUI</td>
-    </tr>
-    <tr>
-      <td><strong>Architectural Patterns</strong></td>
-      <td>MVVM, MVVM-C, Clean, MVC, MVP</td>
-    </tr>
-    <tr>
-      <td><strong>Frameworks</strong></td>
-      <td>Cocoa Touch, UIKit, Core Data/Realm, Core Animation, Core Graphics, CoreML</td>
-    </tr>
-    <tr>
-      <td><strong>Third-Party Libraries</strong></td>
-      <td>SwiftLint, Alamofire, Firebase, AWS, Crashlytics, RxSwift, SDWebImage, Google Maps, and more</td>
-    </tr>
-    <tr>
-      <td><strong>Cloud Services</strong></td>
-      <td>AWS, EC2, Lambda, S3, RDS, Fargate, Docker, Terraform, Terragrunt, CloudFormation</td>
-    </tr>
-    <tr>
-      <td><strong>CI/CD</strong></td>
-      <td>Xcode Cloud, Fastlane, GitLab CI, Jenkins</td>
-    </tr>
-    <tr>
-      <td><strong>Backend Technologies</strong></td>
-      <td>Node.js, PHP (Laravel)</td>
-    </tr>
-    <tr>
-      <td><strong>Databases</strong></td>
-      <td>MySQL, MongoDB, PostgreSQL, Firebase Firestore, Realm, SQLite</td>
-    </tr>
+    <tr><td><strong>Languages</strong></td><td>Swift, Objective-C, Dart</td></tr>
+    <tr><td><strong>UI Design</strong></td><td>SwiftUI, UIKit, Storyboards, XIBs, Programmatic UI, Auto Layout, Core Animation</td></tr>
+    <tr><td><strong>Cross-Platform</strong></td><td>React Native, Flutter</td></tr>
+    <tr><td><strong>Architectural Patterns</strong></td><td>MVVM-C, Clean, VIPER, MVC, MVP, Modular Design, Dependency Injection</td></tr>
+    <tr><td><strong>Apple Frameworks</strong></td><td>Cocoa Touch, Combine, RxSwift, Core Graphics, CoreML, ARKit, Vision, WidgetKit</td></tr>
+    <tr><td><strong>Data Persistence</strong></td><td>Core Data, Realm, SwiftData, SQLite, Keychain</td></tr>
+    <tr><td><strong>Testing & Quality</strong></td><td>TDD, XCTest, Unit/UI Testing, PAC Testing, Code Reviews, SwiftLint</td></tr>
+    <tr><td><strong>Integrations</strong></td><td>Payment Gateways, Socket.IO, Push Notifications, OAuth, Biometrics, Google Maps, Firebase</td></tr>
+    <tr><td><strong>Release & Tooling</strong></td><td>App Store Connect, TestFlight, SPM, CocoaPods, Xcode, Instruments</td></tr>
   </tbody>
 </table>
 
+### ☁️ Cloud & DevOps
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihusnainalii&show_icons=true&locale=en&layout=compact" alt="ihusnainalii" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihusnainalii&show_icons=true&locale=en" alt="ihusnainalii" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihusnainalii&" alt="ihusnainalii" /></p>
+<table border="1" cellpadding="10" cellspacing="0">
+  <thead>
+    <tr><th>Category</th><th>Skills</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Scripting</strong></td><td>Python, Bash, Linux, YAML, Node.js</td></tr>
+    <tr><td><strong>Cloud (AWS)</strong></td><td>EC2, Lambda, S3, RDS, Fargate, CloudFront, SNS, SES, API Gateway, DynamoDB, SQS, Cognito, Bedrock, SageMaker, Textract</td></tr>
+    <tr><td><strong>Containers & Orchestration</strong></td><td>Kubernetes (EKS), Docker, Docker Compose, Helm, Kustomize</td></tr>
+    <tr><td><strong>Infrastructure as Code</strong></td><td>Terraform, Terragrunt, Pulumi, CloudFormation</td></tr>
+    <tr><td><strong>CI/CD</strong></td><td>Jenkins, ArgoCD, FluxCD, GitHub Actions, GitLab CI, Xcode Cloud, Fastlane</td></tr>
+    <tr><td><strong>DevSecOps & Security</strong></td><td>HashiCorp Vault, Cert Manager, Keycloak, SonarQube, Trivy, Gitleaks, OWASP, PCI-DSS, HIPAA</td></tr>
+    <tr><td><strong>Observability</strong></td><td>Prometheus, Grafana, AWS CloudWatch, Datadog, Crashlytics</td></tr>
+    <tr><td><strong>Databases</strong></td><td>PostgreSQL, MySQL, MongoDB, MSSQL, Firebase, SQLite</td></tr>
+    <tr><td><strong>Practices</strong></td><td>GitOps, Microservices, Serverless, Blue/Green & Canary, Service Mesh, Multi-Account, Disaster Recovery, High Availability, Auto-Scaling</td></tr>
+    <tr><td><strong>Tools</strong></td><td>Git, GitHub, GitLab, Jira, Confluence, Postman, Lens, pgAdmin, MongoDB Compass</td></tr>
+  </tbody>
+</table>
 
+<!-- ====================== FOOTER ====================== -->
+<p align="center">
+  <i>"Bridging mobile experiences with cloud-native infrastructure - one pipeline at a time."</i>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0E75B6&height=120&section=footer" alt="footer" />
