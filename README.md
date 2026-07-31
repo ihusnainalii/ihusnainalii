@@ -178,11 +178,11 @@ I'm an innovative, results-driven **Principal Software Engineer** with **8+ year
 ## ✍️ Latest Articles on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [LocalConsoleSwift: A Swift 6 On-Device Debug Console for iOS](https://medium.com/@husnainali593/localconsoleswift-a-swift-6-on-device-debug-console-for-ios-24fdc80ac0e2?source=rss-ffca6b2fe6a6------2)
 - [Understanding MongoDB Data Sync: Replica Sets, Oplogs, and Elections](https://medium.com/@husnainali593/understanding-mongodb-data-sync-replica-sets-oplogs-and-elections-f07522b242a8?source=rss-ffca6b2fe6a6------2)
 - [Write Concern in MongoDB: What It Is, Why It Matters, and What to Use in Production](https://medium.com/@husnainali593/write-concern-in-mongodb-what-it-is-why-it-matters-and-what-to-use-in-production-ef52008a6f64?source=rss-ffca6b2fe6a6------2)
 - [CloudWatch vs Prometheus vs Datadog: The Real-World Guide to Kubernetes Monitoring](https://medium.com/@husnainali593/cloudwatch-vs-prometheus-vs-datadog-the-real-world-guide-to-kubernetes-monitoring-24f9eccb513d?source=rss-ffca6b2fe6a6------2)
 - [The Hidden Security Hole in Your Kubernetes Cluster](https://medium.com/@husnainali593/the-hidden-security-hole-in-your-kubernetes-cluster-289aedc52c33?source=rss-ffca6b2fe6a6------2)
-- [Secure Coding in Swift: SSL Pinning, Keychain, Obfuscation &amp; Best Practices](https://medium.com/@husnainali593/secure-coding-in-swift-ssl-pinning-keychain-obfuscation-best-practices-c5a634866f1e?source=rss-ffca6b2fe6a6------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ====================== CONNECT ====================== -->
