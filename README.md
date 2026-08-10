@@ -56,13 +56,13 @@
 
 I'm an innovative, results-driven **Principal Software Engineer** with **8+ years** of experience building scalable, high-performance solutions - uniquely bridging **mobile application engineering** and **cloud & DevOps**.
 
-- 🍏 **Mobile:** Architected and shipped **30+ native & hybrid apps** across FinTech, Healthcare, Aviation, AR/VR, Sports & Enterprise - all delivered on time, on budget, with **4.5+ App Store ratings** for global clients across Europe, the Middle East & Asia.
-- ☁️ **DevOps:** Design reliable, automated **CI/CD pipelines**, **Infrastructure as Code**, and **cloud-native architectures** on AWS - cutting release cycles by **90%** and infrastructure costs by **35%**.
-- 🏗️ **Architecture:** Clean, modular, testable systems (MVVM-C, Clean, VIPER) with TDD, scaled to **100K+ users** at **<2% crash rate**.
-- 🔒 **DevSecOps:** PCI-DSS & HIPAA-compliant infrastructure with shift-left security scanning (SonarQube, Trivy, Gitleaks, OWASP).
-- 🌱 Currently going deeper into **DevOps, Kubernetes & Platform Engineering**.
-- ✍️ I write about iOS, cloud architecture & DevOps on **[Medium](https://medium.com/@husnainali593)**.
-- ⚡ Fun fact: **My dreams are sometimes in French or Spanish.**
+- **Mobile:** Architected and shipped **30+ native & hybrid apps** across FinTech, Healthcare, Aviation, AR/VR, Sports & Enterprise - all delivered on time, on budget, with **4.5+ App Store ratings** for global clients across Europe, the Middle East & Asia.
+- **DevOps:** Design reliable, automated **CI/CD pipelines**, **Infrastructure as Code**, and **cloud-native architectures** on AWS - cutting release cycles by **90%** and infrastructure costs by **35%**.
+- **Architecture:** Clean, modular, testable systems (MVVM-C, Clean, VIPER) with TDD, scaled to **100K+ users** at **<2% crash rate**.
+- **DevSecOps:** PCI-DSS & HIPAA-compliant infrastructure with shift-left security scanning (SonarQube, Trivy, Gitleaks, OWASP).
+- Currently going deeper into **DevOps, Kubernetes & Platform Engineering**.
+- I write about iOS, cloud architecture & DevOps on **[Medium](https://medium.com/@husnainali593)**.
+- Fun fact: **My dreams are sometimes in French or Spanish.**
 
 <!-- ====================== EXPERIENCE HIGHLIGHTS ====================== -->
 <a id="highlights"></a>
@@ -70,13 +70,13 @@ I'm an innovative, results-driven **Principal Software Engineer** with **8+ year
 
 | | |
 |---|---|
-| 🎯 **90%** faster release cycles via end-to-end CI/CD | 💰 **35%** lower cloud infrastructure costs |
-| 📱 **30+** iOS / hybrid apps shipped (4.5+ ★) | 👥 Scaled apps to **100K+ users** (<2% crash rate) |
-| ☸️ Production **Kubernetes (EKS)** + GitOps | 🔐 **PCI-DSS / HIPAA** compliant cloud architecture |
-| ⚙️ **60%** faster infra provisioning with IaC | 🚀 **3×** deployment frequency via GitOps |
-| 📉 **40%** less downtime with proactive observability | ✅ **75%** higher code quality via reviews & TDD |
-| 🧩 Decomposed monolith into **11 microservices** | 🤖 Scalable **LLM platform on AWS Bedrock** |
-| 📲 **96%** stability gain (Objective-C → Swift migration) | 🌍 Delivered for clients across **Europe, ME & Asia** |
+| **90%** faster release cycles via end-to-end CI/CD | **35%** lower cloud infrastructure costs |
+| **30+** iOS / hybrid apps shipped (4.5+ ★) | Scaled apps to **100K+ users** (<2% crash rate) |
+| Production **Kubernetes (EKS)** + GitOps | **PCI-DSS / HIPAA** compliant cloud architecture |
+| **60%** faster infra provisioning with IaC | **3×** deployment frequency via GitOps |
+| **40%** less downtime with proactive observability | **75%** higher code quality via reviews & TDD |
+| Decomposed monolith into **11 microservices** | Scalable **LLM platform on AWS Bedrock** |
+| **96%** stability gain (Objective-C → Swift migration) | Delivered for clients across **Europe, ME & Asia** |
 
 <!-- ====================== FEATURED PROJECTS ====================== -->
 <a id="featured-projects"></a>
