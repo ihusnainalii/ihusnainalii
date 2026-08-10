@@ -95,7 +95,6 @@ I'm an innovative, results-driven **Principal Software Engineer** with **8+ year
   <a href="https://github.com/ihusnainalii/docker-image-scanning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ihusnainalii&repo=docker-image-scanning&theme=tokyonight&hide_border=true" alt="docker-image-scanning" /></a>
 </p>
 
-<p align="center"><sub>📌 Pin more repos anytime from your <a href="https://github.com/ihusnainalii?tab=repositories">repositories tab</a> - these cards update automatically as stars/forks change.</sub></p>
 
 <!-- ====================== KEY PROJECTS ====================== -->
 <a id="key-projects"></a>
