@@ -1,13 +1,10 @@
 <!-- ====================== BANNER ====================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:9B5DE5,100:00BBF9&height=180&section=header&animation=fadeIn" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:9B5DE5,100:00BBF9&height=200&section=header&text=Husnain%20Ali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Principal%20DevOps%20%26%20Senior%20iOS%20Engineer&descAlignY=58&descAlign=50" alt="banner" />
 
 <!-- ====================== HEADER ====================== -->
-<h1 align="center">Hi 👋, I'm Husnain Ali</h1>
-<h3 align="center">Principal DevOps Engineer | CI/CD Automation | DevSecOps | Platform Engineer | Senior iOS Engineer | Mobile Architect</h3>
-
 <p align="center">
   <a href="https://github.com/ihusnainalii">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=620&lines=Principal+Software+Engineer;Senior+iOS+Engineer+%26+Mobile+Architect;AWS+Certified+DevOps+Engineer+(Professional);Building+scalable+apps+%26+cloud-native+systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=680&lines=Principal+Software+Engineer;Senior+iOS+Engineer+%26+Mobile+Architect;AWS+Certified+DevOps+Engineer+(Professional);Building+scalable+apps+%26+cloud-native+systems;Bridging+Mobile+%2B+Cloud%2C+one+pipeline+at+a+time" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,9 +21,34 @@
   <a href="https://www.credly.com/badges/f4b6a0ee-edff-444d-bb7c-f213f52d2af5/public_url"><img src="https://img.shields.io/badge/AWS%20Certified-DevOps%20Professional-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS Certified" /></a>
   <img src="https://img.shields.io/badge/Experience-8%2B%20Years-success?style=flat" alt="experience" />
   <img src="https://img.shields.io/badge/iOS%20Apps%20Shipped-30%2B-blue?style=flat&logo=apple&logoColor=white" alt="apps" />
+  <img src="https://img.shields.io/github/followers/ihusnainalii?label=Followers&style=flat&color=blueviolet" alt="followers" />
 </p>
 
+<p align="center">
+  <img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B6B,50:9B5DE5,100:00BBF9&height=3" alt="divider" />
+</p>
+
+<!-- ====================== TABLE OF CONTENTS ====================== -->
+<details open>
+<summary><b>📌 Table of Contents</b></summary>
+<br/>
+
+- [🚀 About Me](#about-me)
+- [💼 Highlights](#highlights)
+- [📌 Featured Projects](#featured-projects)
+- [🧪 Key Projects](#key-projects)
+- [🎓 Certifications & Training](#certifications--training)
+- [🛠️ Tech Stack](#tech-stack)
+- [📊 GitHub Stats](#github-stats)
+- [🐍 Contribution Graph](#contribution-graph)
+- [✍️ Latest Articles on Medium](#latest-articles-on-medium)
+- [📫 Connect with Me](#connect-with-me)
+- [🧰 Detailed Skills](#detailed-skills)
+
+</details>
+
 <!-- ====================== ABOUT ====================== -->
+<a id="about-me"></a>
 ## 🚀 About Me
 
 I'm an innovative, results-driven **Principal Software Engineer** with **8+ years** of experience building scalable, high-performance solutions - uniquely bridging **mobile application engineering** and **cloud & DevOps**.
@@ -36,9 +58,11 @@ I'm an innovative, results-driven **Principal Software Engineer** with **8+ year
 - 🏗️ **Architecture:** Clean, modular, testable systems (MVVM-C, Clean, VIPER) with TDD, scaled to **100K+ users** at **<2% crash rate**.
 - 🔒 **DevSecOps:** PCI-DSS & HIPAA-compliant infrastructure with shift-left security scanning (SonarQube, Trivy, Gitleaks, OWASP).
 - 🌱 Currently going deeper into **DevOps, Kubernetes & Platform Engineering**.
+- ✍️ I write about iOS, cloud architecture & DevOps on **[Medium](https://medium.com/@husnainali593)**.
 - ⚡ Fun fact: **My dreams are sometimes in French or Spanish.**
 
 <!-- ====================== EXPERIENCE HIGHLIGHTS ====================== -->
+<a id="highlights"></a>
 ## 💼 Highlights
 
 | | |
@@ -51,7 +75,27 @@ I'm an innovative, results-driven **Principal Software Engineer** with **8+ year
 | 🧩 Decomposed monolith into **11 microservices** | 🤖 Scalable **LLM platform on AWS Bedrock** |
 | 📲 **96%** stability gain (Objective-C → Swift migration) | 🌍 Delivered for clients across **Europe, ME & Asia** |
 
+<!-- ====================== FEATURED PROJECTS ====================== -->
+<a id="featured-projects"></a>
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/ihusnainalii/LocalConsoleSwift"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ihusnainalii&repo=LocalConsoleSwift&theme=tokyonight&hide_border=true" alt="LocalConsoleSwift" /></a>
+  <a href="https://github.com/ihusnainalii/terraform-s3-cloudfront"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ihusnainalii&repo=terraform-s3-cloudfront&theme=tokyonight&hide_border=true" alt="terraform-s3-cloudfront" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/ihusnainalii/ihusnainalii.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ihusnainalii&repo=ihusnainalii.github.io&theme=tokyonight&hide_border=true" alt="Portfolio site" /></a>
+  <a href="https://github.com/ihusnainalii/Pre-Commit-Hooks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ihusnainalii&repo=Pre-Commit-Hooks&theme=tokyonight&hide_border=true" alt="Pre-Commit-Hooks" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/ihusnainalii/VerifiedBadge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ihusnainalii&repo=VerifiedBadge&theme=tokyonight&hide_border=true" alt="VerifiedBadge" /></a>
+  <a href="https://github.com/ihusnainalii/docker-image-scanning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ihusnainalii&repo=docker-image-scanning&theme=tokyonight&hide_border=true" alt="docker-image-scanning" /></a>
+</p>
+
+<p align="center"><sub>📌 Pin more repos anytime from your <a href="https://github.com/ihusnainalii?tab=repositories">repositories tab</a> - these cards update automatically as stars/forks change.</sub></p>
+
 <!-- ====================== KEY PROJECTS ====================== -->
+<a id="key-projects"></a>
 ## 🧪 Key Projects
 
 **☁️ Cloud & DevOps**
@@ -75,6 +119,7 @@ I'm an innovative, results-driven **Principal Software Engineer** with **8+ year
 - **Jonple** (React Native) - fitness app. · **Want It** (iOS) - buy & sell marketplace. · **Mathlete** (iOS) - education & gamification.
 
 <!-- ====================== CERTIFICATIONS ====================== -->
+<a id="certifications--training"></a>
 ## 🎓 Certifications & Training
 
 - 🏅 **AWS Certified DevOps Engineer - Professional** - Amazon Web Services (2025) - [![Verify on Credly](https://img.shields.io/badge/Verify-Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/badges/f4b6a0ee-edff-444d-bb7c-f213f52d2af5/public_url)
@@ -85,6 +130,7 @@ I'm an innovative, results-driven **Principal Software Engineer** with **8+ year
 - 📱 **Certified iOS Mobile Developer** - eVenture Solutions, EVS Lahore (2017)
 
 <!-- ====================== TECH STACK ====================== -->
+<a id="tech-stack"></a>
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -144,6 +190,7 @@ I'm an innovative, results-driven **Principal Software Engineer** with **8+ year
 </p>
 
 <!-- ====================== GITHUB STATS ====================== -->
+<a id="github-stats"></a>
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -156,10 +203,15 @@ I'm an innovative, results-driven **Principal Software Engineer** with **8+ year
 </p>
 
 <p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ihusnainalii&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</p>
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihusnainalii&theme=tokyonight&no-frame=true&margin-w=8&column=7" alt="trophies" /></a>
 </p>
 
 <!-- ====================== CONTRIBUTION GRAPH ====================== -->
+<a id="contribution-graph"></a>
 ## 🐍 Contribution Graph
 
 <p align="center">
@@ -175,6 +227,7 @@ I'm an innovative, results-driven **Principal Software Engineer** with **8+ year
 </p>
 
 <!-- ====================== LATEST ARTICLES ====================== -->
+<a id="latest-articles-on-medium"></a>
 ## ✍️ Latest Articles on Medium
 
 <!-- BLOG-POST-LIST:START -->
@@ -186,6 +239,7 @@ I'm an innovative, results-driven **Principal Software Engineer** with **8+ year
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ====================== CONNECT ====================== -->
+<a id="connect-with-me"></a>
 ## 📫 Connect with Me
 
 - 👨‍💻 Portfolio & projects: **[ihusnainalii.github.io](https://ihusnainalii.github.io)**
@@ -202,6 +256,7 @@ I'm an innovative, results-driven **Principal Software Engineer** with **8+ year
 </p>
 
 <!-- ====================== DETAILED SKILLS ====================== -->
+<a id="detailed-skills"></a>
 ## 🧰 Detailed Skills
 
 ### 📱 Mobile Engineering
@@ -244,6 +299,10 @@ I'm an innovative, results-driven **Principal Software Engineer** with **8+ year
 </table>
 
 <!-- ====================== FOOTER ====================== -->
+<p align="center">
+  <img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00BBF9,50:9B5DE5,100:FF6B6B&height=3" alt="divider" />
+</p>
+
 <p align="center">
   <i>"Bridging mobile experiences with cloud-native infrastructure - one pipeline at a time."</i>
 </p>
