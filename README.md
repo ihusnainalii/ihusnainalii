@@ -82,17 +82,20 @@ I'm an innovative, results-driven **Principal Software Engineer** with **8+ year
 <a id="featured-projects"></a>
 ## 📌 Featured Projects
 
+<p align="center"><i>A snapshot of recent work - spanning cloud infrastructure automation and native iOS engineering.</i></p>
+
+**☁️ Cloud & DevOps**
 <p align="center">
-  <a href="https://github.com/ihusnainalii/LocalConsoleSwift"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ihusnainalii&repo=LocalConsoleSwift&theme=tokyonight&hide_border=true" alt="LocalConsoleSwift" /></a>
-  <a href="https://github.com/ihusnainalii/terraform-s3-cloudfront"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ihusnainalii&repo=terraform-s3-cloudfront&theme=tokyonight&hide_border=true" alt="terraform-s3-cloudfront" /></a>
+  <a href="https://github.com/ihusnainalii/terraform-s3-cloudfront"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ihusnainalii&repo=terraform-s3-cloudfront&theme=tokyonight&hide_border=true" alt="terraform-s3-cloudfront" /></a>
+  <a href="https://github.com/ihusnainalii/Pre-Commit-Hooks"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ihusnainalii&repo=Pre-Commit-Hooks&theme=tokyonight&hide_border=true" alt="Pre-Commit-Hooks" /></a>
+  <a href="https://github.com/ihusnainalii/docker-image-scanning"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ihusnainalii&repo=docker-image-scanning&theme=tokyonight&hide_border=true" alt="docker-image-scanning" /></a>
 </p>
+
+**📱 Mobile & iOS**
 <p align="center">
-  <a href="https://github.com/ihusnainalii/ihusnainalii.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ihusnainalii&repo=ihusnainalii.github.io&theme=tokyonight&hide_border=true" alt="Portfolio site" /></a>
-  <a href="https://github.com/ihusnainalii/Pre-Commit-Hooks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ihusnainalii&repo=Pre-Commit-Hooks&theme=tokyonight&hide_border=true" alt="Pre-Commit-Hooks" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/ihusnainalii/VerifiedBadge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ihusnainalii&repo=VerifiedBadge&theme=tokyonight&hide_border=true" alt="VerifiedBadge" /></a>
-  <a href="https://github.com/ihusnainalii/docker-image-scanning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ihusnainalii&repo=docker-image-scanning&theme=tokyonight&hide_border=true" alt="docker-image-scanning" /></a>
+  <a href="https://github.com/ihusnainalii/LocalConsoleSwift"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ihusnainalii&repo=LocalConsoleSwift&theme=tokyonight&hide_border=true" alt="LocalConsoleSwift" /></a>
+  <a href="https://github.com/ihusnainalii/SearchNetflix"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ihusnainalii&repo=SearchNetflix&theme=tokyonight&hide_border=true" alt="SearchNetflix" /></a>
+  <a href="https://github.com/ihusnainalii/VerifiedBadge"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=ihusnainalii&repo=VerifiedBadge&theme=tokyonight&hide_border=true" alt="VerifiedBadge" /></a>
 </p>
 
 
