@@ -1,7 +1,10 @@
 <!-- ====================== BANNER ====================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:9B5DE5,100:00BBF9&height=200&section=header&text=Husnain%20Ali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Principal%20DevOps%20%26%20Senior%20iOS%20Engineer&descAlignY=58&descAlign=50" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:9B5DE5,100:00BBF9&height=180&section=header&animation=fadeIn" alt="banner" />
 
 <!-- ====================== HEADER ====================== -->
+<h1 align="center">Hi 👋, I'm Husnain Ali</h1>
+<h3 align="center">Principal DevOps Engineer | CI/CD Automation | DevSecOps | Platform Engineer | Senior iOS Engineer | Mobile Architect</h3>
+
 <p align="center">
   <a href="https://github.com/ihusnainalii">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=680&lines=Principal+Software+Engineer;Senior+iOS+Engineer+%26+Mobile+Architect;AWS+Certified+DevOps+Engineer+(Professional);Building+scalable+apps+%26+cloud-native+systems;Bridging+Mobile+%2B+Cloud%2C+one+pipeline+at+a+time" alt="Typing SVG" />
