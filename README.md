@@ -178,11 +178,6 @@ I'm an innovative, results-driven **Principal Software Engineer** with **8+ year
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ihusnainalii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihusnainalii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-</p>
-
-<p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ihusnainalii&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
@@ -191,7 +186,7 @@ I'm an innovative, results-driven **Principal Software Engineer** with **8+ year
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihusnainalii&theme=tokyonight&no-frame=true&margin-w=8&column=7" alt="trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=ihusnainalii&no-frame=true&margin-w=8&column=4" alt="trophies" /></a>
 </p>
 
 <!-- ====================== CONTRIBUTION GRAPH ====================== -->
