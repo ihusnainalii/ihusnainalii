@@ -34,18 +34,29 @@
 </picture>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/opensource.svg">
+  <img src="assets/opensource.svg" alt="04 open source" width="100%">
+</picture>
+
+<p align="center">
+  <a href="https://github.com/ihusnainalii/SwiftNetworkKit">SwiftNetworkKit</a> &nbsp;·&nbsp;
+  <a href="https://github.com/ihusnainalii/SwiftLocalStorage">SwiftLocalStorage</a> &nbsp;·&nbsp;
+  <a href="https://github.com/ihusnainalii/LocalConsoleSwift">LocalConsoleSwift</a>
+</p>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg">
-  <img src="assets/stack.svg" alt="04 stack" width="100%">
+  <img src="assets/stack.svg" alt="05 stack" width="100%">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/certs.svg">
-  <img src="assets/certs.svg" alt="05 credentials" width="100%">
+  <img src="assets/certs.svg" alt="06 credentials" width="100%">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/activity.svg">
-  <img src="assets/activity.svg" alt="06 activity" width="100%">
+  <img src="assets/activity.svg" alt="07 activity" width="100%">
 </picture>
 
 <p align="center">
@@ -83,7 +94,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/writing.svg">
-  <img src="assets/writing.svg" alt="07 writing" width="100%">
+  <img src="assets/writing.svg" alt="08 writing" width="100%">
 </picture>
 
 <!-- BLOG-POST-LIST:START -->

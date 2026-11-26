@@ -77,6 +77,12 @@ PROJECT_GROUPS = [
     ]),
 ]
 
+OSS = [
+    ("SwiftNetworkKit", "Composable, protocol-oriented networking layer for Swift. Zero dependencies and Swift 6 strict concurrency. iOS 16+, macOS 13+, tvOS 16+, watchOS 9+, visionOS 1+.", "Swift 6 · Networking · SwiftUI"),
+    ("SwiftLocalStorage", "Type-safe local persistence and caching for Swift. Store existing Codable DTOs with SwiftData, no @Model needed. Cache expiry, queries, live observation, migrations.", "SwiftData · Caching · Offline-first"),
+    ("LocalConsoleSwift", "On-device debug console for iOS: a draggable, resizable PiP overlay that mirrors print() output and inspects view frames, right inside your live app.", "Swift 6 · Debugging · SwiftUI"),
+]
+
 STACK = [
     ("LANGUAGES", "Swift · Objective-C · Python · Bash · Node.js · Dart"),
     ("MOBILE", "SwiftUI · UIKit · Combine · RxSwift · React Native · Flutter · ARKit · CoreML"),
@@ -104,7 +110,6 @@ CSS = """
 .draw{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 1.4s cubic-bezier(.6,0,.2,1) forwards}
 .grow{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation:grow 1.2s cubic-bezier(.2,.7,.2,1) forwards}
 .rot{opacity:0;animation:rot 16s infinite backwards}
-.spot{opacity:0;animation:spot 14s infinite backwards}
 .blink{animation:blink 1.1s steps(1) infinite}
 .pulse{animation:pulse 2.4s ease-in-out infinite}
 .ring{transform-box:fill-box;transform-origin:center;animation:ring 2.4s ease-out infinite}
@@ -112,13 +117,12 @@ CSS = """
 @keyframes draw{to{stroke-dashoffset:0}}
 @keyframes grow{to{transform:scaleX(1)}}
 @keyframes rot{0%{opacity:0;transform:translateY(8px)}4%,21%{opacity:1;transform:translateY(0)}25%,100%{opacity:0;transform:translateY(-8px)}}
-@keyframes spot{0%{opacity:0}2%,9%{opacity:1}12%,100%{opacity:0}}
 @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
 @keyframes ring{0%{transform:scale(.5);opacity:.8}80%,100%{transform:scale(2.6);opacity:0}}
 @media (prefers-reduced-motion:reduce){
  *{animation:none!important}
- .rise,.rot.first{opacity:1}.draw{stroke-dashoffset:0}.grow{transform:none}.ring{opacity:0}.spot{display:none}.rot:not(.first){display:none}
+ .rise,.rot.first{opacity:1}.draw{stroke-dashoffset:0}.grow{transform:none}.ring{opacity:0}.rot:not(.first){display:none}
 }
 """
 
@@ -153,12 +157,6 @@ def chips(x, y, items, maxw, size=11.5, h=24, gap=8, delay=0.0, step=0.04):
         cx += w + gap
         d += step
     return parts, y + h
-
-
-def spot(x, y, w, h, rx, i, n):
-    """Looping highlight that sweeps one card at a time (GitHub images can't receive real :hover)."""
-    return (f'<rect class="spot" x="{x:.0f}" y="{y}" width="{w:.0f}" height="{h}" rx="{rx}" fill="{{acc}}" fill-opacity=".09" '
-            f'stroke="{{acc}}" stroke-width="2" style="animation-delay:{2 + i * 14 / n:.2f}s"/>')
 
 
 def section(num, label, path):
@@ -213,7 +211,6 @@ def whoami():
         for j, l in enumerate(ls):
             parts.append(t(M + 130, y + 29 + j * 22, l, 14, "fg", 400, 0, fam=SANS))
         p.append(rise(d, *parts))
-        p.append(spot(M, y, W - 2 * M, h, 8, WHOAMI_ROWS.index((k, v)), len(WHOAMI_ROWS)))
         y += h + 8; d += 0.08
     return p, y + 6
 
@@ -230,7 +227,6 @@ def impact():
                       t(cx + 20, cy + 50, big, 38, "acc", 800),
                       t(cx + 20, cy + 76, lab, 14, "fg", 600, 0, fam=SANS),
                       t(cx + 20, cy + 95, sub, 12, "dim", 400, 0, fam=SANS)))
-        p.append(spot(cx, cy, cw, 112, 10, i, len(IMPACT)))
         p.append(f'<rect class="grow" x="{cx + 20:.0f}" y="{cy + 104}" width="{cw - 40:.0f}" height="3" rx="1.5" '
                  f'fill="{{acc}}" opacity=".55" style="animation-delay:{d + 0.4:.2f}s"/>')
     return p, y + ((len(IMPACT) + 3) // 4) * 124
@@ -242,8 +238,6 @@ def projects():
     cw = (W - 2 * M - gap) / 2
     ch = 140
     d = 0.3
-    total = sum(len(g[1]) for g in PROJECT_GROUPS)
-    k = 0
     for gname, items in PROJECT_GROUPS:
         p.append(rise(d, f'<circle cx="{M + 4}" cy="{y - 4}" r="4" fill="{{acc}}"/>', t(M + 18, y, gname, 12, "fg", 700, 4)))
         y += 20
@@ -261,16 +255,34 @@ def projects():
                 parts.append(t(cx2 + w / 2, cy + 120, tg, 11, "acc", 600, 0, "middle", SANS))
                 cx2 += w + 8
             p.append(rise(d + (i // 2) * 0.12 + (i % 2) * 0.05, *parts))
-            p.append(spot(cx, cy, cw, ch, 12, k, total))
-            k += 1
         rows = (len(items) + 1) // 2
         y += rows * (ch + gap) + 14
         d += 0.2
     return p, y - 6
 
 
+def opensource():
+    p, y = section("04", "OPEN SOURCE", "~/04-open-source")
+    ch = 132
+    for i, (name, desc, tags) in enumerate(OSS):
+        parts = [f'<rect x="{M}" y="{y}" width="{W - 2*M}" height="{ch}" rx="12" fill="{{card}}" stroke="{{line}}"/>',
+                 t(M + 22, y + 34, name, 17, "fg", 700, 0, fam=SANS),
+                 t(W - M - 22, y + 34, "SWIFT PACKAGE", 10, "dim", 600, 2, "end")]
+        for j, ln in enumerate(textwrap.wrap(desc, 92)[:2]):
+            parts.append(t(M + 22, y + 60 + j * 21, ln, 13, "dim", 400, 0, fam=SANS))
+        cx2 = M + 22
+        for tg in tags.split(" · "):
+            w = len(tg) * 6.8 * FS + 18
+            parts.append(f'<rect x="{cx2:.0f}" y="{y + 96}" width="{w:.0f}" height="24" rx="12" fill="none" stroke="{{acc}}" opacity=".6"/>')
+            parts.append(t(cx2 + w / 2, y + 112, tg, 11, "acc", 600, 0, "middle", SANS))
+            cx2 += w + 8
+        p.append(rise(0.3 + i * 0.15, *parts))
+        y += ch + 14
+    return p, y - 6
+
+
 def stack():
-    p, y = section("04", "STACK", "~/04-stack")
+    p, y = section("05", "STACK", "~/05-stack")
     d = 0.3
     for k, v in STACK:
         items = v.split(" · ")
@@ -285,7 +297,7 @@ def stack():
 
 
 def certs():
-    p, y = section("05", "CREDENTIALS", "~/05-certifications")
+    p, y = section("06", "CREDENTIALS", "~/06-certifications")
     top = y - 6
     n = len(CERTS)
     row = 62
@@ -318,10 +330,10 @@ def footer():
 
 
 PANELS = {
-    "header": header, "whoami": whoami, "impact": impact, "projects": projects,
+    "header": header, "whoami": whoami, "impact": impact, "projects": projects, "opensource": opensource,
     "stack": stack, "certs": certs, "footer": footer,
-    "activity": lambda: bare("06", "ACTIVITY", "~/06-activity"),
-    "writing": lambda: bare("07", "WRITING", "~/07-writing"),
+    "activity": lambda: bare("07", "ACTIVITY", "~/07-activity"),
+    "writing": lambda: bare("08", "WRITING", "~/08-writing"),
 }
 
 if __name__ == "__main__":
