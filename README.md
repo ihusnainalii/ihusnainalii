@@ -87,8 +87,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://trophygithubreadmelang.cybee.dpdns.org/?username=ihusnainalii&theme=darkhub&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=10&title=MultiLanguage,Repositories,Commits,Experience,PullRequest,Stars,Followers,Issues">
-    <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=ihusnainalii&theme=flat&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=10&title=MultiLanguage,Repositories,Commits,Experience,PullRequest,Stars,Followers,Issues" alt="github trophies" width="80%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://trophygithubreadmelang.cybee.dpdns.org/?username=ihusnainalii&theme=darkhub&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=10&title=MultiLanguage%2CRepositories%2CCommits%2CExperience%2CPullRequest%2CStars%2CFollowers%2CIssues">
+    <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=ihusnainalii&theme=flat&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=10&title=MultiLanguage%2CRepositories%2CCommits%2CExperience%2CPullRequest%2CStars%2CFollowers%2CIssues" alt="github trophies" width="80%">
   </picture>
 </p>
 
