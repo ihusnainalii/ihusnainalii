@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 286" width="900" height="286" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace">
+<text x="28" y="40" font-size="34" font-weight="700" fill="#1f2328" letter-spacing="0" text-anchor="start">02</text>
+<text x="84" y="38" font-size="12" font-weight="700" fill="#1f2328" letter-spacing="5" text-anchor="start">IMPACT</text>
+<line x1="184" y1="33" x2="778.6" y2="33" stroke="#d0d7de" stroke-width="1"/>
+<text x="872" y="38" font-size="11" font-weight="400" fill="#656d76" letter-spacing="0" text-anchor="end">~/02-impact</text>
+<rect x="32.0" y="74" width="203.0" height="94" fill="none" stroke="#d0d7de"/>
+<text x="46.0" y="118" font-size="34" font-weight="700" fill="#4f46e5" letter-spacing="0" text-anchor="start">90%</text>
+<text x="46.0" y="140" font-size="12" font-weight="600" fill="#1f2328" letter-spacing="0" text-anchor="start">faster releases</text>
+<text x="46.0" y="156" font-size="10" font-weight="400" fill="#656d76" letter-spacing="0" text-anchor="start">end-to-end CI/CD</text>
+<rect x="243.0" y="74" width="203.0" height="94" fill="none" stroke="#d0d7de"/>
+<text x="257.0" y="118" font-size="34" font-weight="700" fill="#4f46e5" letter-spacing="0" text-anchor="start">35%</text>
+<text x="257.0" y="140" font-size="12" font-weight="600" fill="#1f2328" letter-spacing="0" text-anchor="start">lower infra cost</text>
+<text x="257.0" y="156" font-size="10" font-weight="400" fill="#656d76" letter-spacing="0" text-anchor="start">serverless migration</text>
+<rect x="454.0" y="74" width="203.0" height="94" fill="none" stroke="#d0d7de"/>
+<text x="468.0" y="118" font-size="34" font-weight="700" fill="#4f46e5" letter-spacing="0" text-anchor="start">60%</text>
+<text x="468.0" y="140" font-size="12" font-weight="600" fill="#1f2328" letter-spacing="0" text-anchor="start">faster provisioning</text>
+<text x="468.0" y="156" font-size="10" font-weight="400" fill="#656d76" letter-spacing="0" text-anchor="start">infrastructure as code</text>
+<rect x="665.0" y="74" width="203.0" height="94" fill="none" stroke="#d0d7de"/>
+<text x="679.0" y="118" font-size="34" font-weight="700" fill="#4f46e5" letter-spacing="0" text-anchor="start">3x</text>
+<text x="679.0" y="140" font-size="12" font-weight="600" fill="#1f2328" letter-spacing="0" text-anchor="start">deploy frequency</text>
+<text x="679.0" y="156" font-size="10" font-weight="400" fill="#656d76" letter-spacing="0" text-anchor="start">GitOps</text>
+<rect x="32.0" y="178" width="203.0" height="94" fill="none" stroke="#d0d7de"/>
+<text x="46.0" y="222" font-size="34" font-weight="700" fill="#4f46e5" letter-spacing="0" text-anchor="start">40%</text>
+<text x="46.0" y="244" font-size="12" font-weight="600" fill="#1f2328" letter-spacing="0" text-anchor="start">less downtime</text>
+<text x="46.0" y="260" font-size="10" font-weight="400" fill="#656d76" letter-spacing="0" text-anchor="start">proactive observability</text>
+<rect x="243.0" y="178" width="203.0" height="94" fill="none" stroke="#d0d7de"/>
+<text x="257.0" y="222" font-size="34" font-weight="700" fill="#4f46e5" letter-spacing="0" text-anchor="start">11</text>
+<text x="257.0" y="244" font-size="12" font-weight="600" fill="#1f2328" letter-spacing="0" text-anchor="start">microservices</text>
+<text x="257.0" y="260" font-size="10" font-weight="400" fill="#656d76" letter-spacing="0" text-anchor="start">from one monolith</text>
+<rect x="454.0" y="178" width="203.0" height="94" fill="none" stroke="#d0d7de"/>
+<text x="468.0" y="222" font-size="34" font-weight="700" fill="#4f46e5" letter-spacing="0" text-anchor="start">100K+</text>
+<text x="468.0" y="244" font-size="12" font-weight="600" fill="#1f2328" letter-spacing="0" text-anchor="start">users</text>
+<text x="468.0" y="260" font-size="10" font-weight="400" fill="#656d76" letter-spacing="0" text-anchor="start">&lt;2% crash rate</text>
+<rect x="665.0" y="178" width="203.0" height="94" fill="none" stroke="#d0d7de"/>
+<text x="679.0" y="222" font-size="34" font-weight="700" fill="#4f46e5" letter-spacing="0" text-anchor="start">96%</text>
+<text x="679.0" y="244" font-size="12" font-weight="600" fill="#1f2328" letter-spacing="0" text-anchor="start">stability gain</text>
+<text x="679.0" y="260" font-size="10" font-weight="400" fill="#656d76" letter-spacing="0" text-anchor="start">Obj-C to Swift</text>
+</svg>
