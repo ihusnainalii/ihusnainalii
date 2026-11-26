@@ -38,12 +38,6 @@
   <img src="assets/opensource.svg" alt="04 open source" width="100%">
 </picture>
 
-<p align="center">
-  <a href="https://github.com/ihusnainalii/SwiftNetworkKit">SwiftNetworkKit</a> &nbsp;·&nbsp;
-  <a href="https://github.com/ihusnainalii/SwiftLocalStorage">SwiftLocalStorage</a> &nbsp;·&nbsp;
-  <a href="https://github.com/ihusnainalii/LocalConsoleSwift">LocalConsoleSwift</a>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg">
   <img src="assets/stack.svg" alt="05 stack" width="100%">
@@ -70,25 +64,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ihusnainalii&hide_border=true&area=true&bg_color=00000000&custom_title=Contributions%2C%20last%2031%20days&color=9198A1&line=22D3EE&point=E6EDF3&area_color=22D3EE&title_color=22D3EE">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihusnainalii&hide_border=true&area=true&bg_color=00000000&custom_title=Contributions%2C%20last%2031%20days&color=59636E&line=4F46E5&point=1F2328&area_color=4F46E5&title_color=4F46E5" alt="contribution activity graph" width="95%">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ihusnainalii/ihusnainalii/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ihusnainalii/ihusnainalii/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ihusnainalii/ihusnainalii/output/github-snake.svg" width="95%" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="90%" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://trophygithubreadmelang.cybee.dpdns.org/?username=ihusnainalii&theme=darkhub&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=10&title=MultiLanguage%2CRepositories%2CCommits%2CExperience%2CPullRequest%2CStars%2CFollowers%2CIssues">
-    <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=ihusnainalii&theme=flat&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=10&title=MultiLanguage%2CRepositories%2CCommits%2CExperience%2CPullRequest%2CStars%2CFollowers%2CIssues" alt="github trophies" width="80%">
   </picture>
 </p>
 

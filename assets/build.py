@@ -60,20 +60,12 @@ PROJECT_GROUPS = [
         ("Siemens CIAM", "Enterprise customer identity and access management platform.", "EKS · Keycloak"),
         ("EC2 to Serverless", "Lambda and Fargate modernization that cut infrastructure costs by 35%.", "AWS · Lambda · Fargate"),
         ("StayX Microservices", "Decomposed a monolith into 11 scalable microservices.", "AWS · Docker"),
-        ("Elasticsearch Cluster", "High-availability search and log infrastructure.", "EKS · Elasticsearch"),
-        ("Blue/Green Pipeline", "Zero-downtime CI/CD with instant rollback.", "Jenkins · CI/CD"),
-        ("Terraform Automation", "Multi-environment infrastructure provisioning.", "Terraform · Terragrunt"),
-        ("LLM Platform", "Scalable LLM API deployment for enterprise apps.", "AWS Bedrock · Python"),
-        ("PCI-DSS Compliance", "Secure, audit-ready compliant cloud architecture.", "AWS · Security"),
     ]),
     ("MOBILE", [
         ("FinPay", "FinTech payments app.", "Swift · iOS"),
         ("Healthcare Suite", "MediCare+, HealthTrack 360 and PharmaLink: booking, e-commerce and supply chain.", "Swift · iOS"),
         ("Volocopter Pilot", "Aviation and mobility platform.", "Swift · iOS"),
-        ("RENOLIT AXS", "AR-based surface measurement tool for iPad.", "ARKit · iPad"),
         ("KSC App / KSC TV", "Live sports app and live-stream video platform.", "iOS · tvOS"),
-        ("Stay Safe / TE to Go", "Workplace safety and supplier collaboration apps.", "Flutter · Dart"),
-        ("Jonple · Want It · Mathlete", "Fitness, marketplace and education apps.", "React Native · iOS"),
     ]),
 ]
 
