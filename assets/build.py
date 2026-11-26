@@ -7,6 +7,7 @@ import textwrap
 from xml.sax.saxutils import escape
 
 W, M = 900, 28
+FS = 1.12  # global font scale
 MONO = "ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace"
 SANS = "-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
 THEMES = {
@@ -47,6 +48,10 @@ IMPACT = [
     ("11", "Microservices", "from one monolith"),
     ("100K+", "Users served", "under 2% crash rate"),
     ("96%", "Stability gain", "Obj-C to Swift"),
+    ("30+", "Apps shipped", "native and hybrid"),
+    ("4.5+", "App Store rating", "across client apps"),
+    ("75%", "Higher code quality", "reviews and TDD"),
+    ("3", "Regions served", "Europe, Middle East, Asia"),
 ]
 
 PROJECT_GROUPS = [
@@ -99,6 +104,7 @@ CSS = """
 .draw{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 1.4s cubic-bezier(.6,0,.2,1) forwards}
 .grow{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation:grow 1.2s cubic-bezier(.2,.7,.2,1) forwards}
 .rot{opacity:0;animation:rot 16s infinite backwards}
+.spot{opacity:0;animation:spot 14s infinite backwards}
 .blink{animation:blink 1.1s steps(1) infinite}
 .pulse{animation:pulse 2.4s ease-in-out infinite}
 .ring{transform-box:fill-box;transform-origin:center;animation:ring 2.4s ease-out infinite}
@@ -106,19 +112,20 @@ CSS = """
 @keyframes draw{to{stroke-dashoffset:0}}
 @keyframes grow{to{transform:scaleX(1)}}
 @keyframes rot{0%{opacity:0;transform:translateY(8px)}4%,21%{opacity:1;transform:translateY(0)}25%,100%{opacity:0;transform:translateY(-8px)}}
+@keyframes spot{0%{opacity:0}2%,9%{opacity:1}12%,100%{opacity:0}}
 @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
 @keyframes ring{0%{transform:scale(.5);opacity:.8}80%,100%{transform:scale(2.6);opacity:0}}
 @media (prefers-reduced-motion:reduce){
  *{animation:none!important}
- .rise,.rot.first{opacity:1}.draw{stroke-dashoffset:0}.grow{transform:none}.ring{opacity:0}.rot:not(.first){display:none}
+ .rise,.rot.first{opacity:1}.draw{stroke-dashoffset:0}.grow{transform:none}.ring{opacity:0}.spot{display:none}.rot:not(.first){display:none}
 }
 """
 
 
 def t(x, y, s, size=13, fill="fg", weight=400, ls=0, anchor="start", fam=MONO, cls=""):
     c = f' class="{cls}"' if cls else ""
-    return (f'<text{c} x="{x}" y="{y}" font-size="{size}" font-weight="{weight}" fill="{{{fill}}}" '
+    return (f'<text{c} x="{x}" y="{y}" font-size="{size * FS:.1f}" font-weight="{weight}" fill="{{{fill}}}" '
             f'letter-spacing="{ls}" text-anchor="{anchor}" font-family="{fam}">{escape(s)}</text>')
 
 
@@ -138,7 +145,7 @@ def chips(x, y, items, maxw, size=11.5, h=24, gap=8, delay=0.0, step=0.04):
     """Rounded pills that wrap. Returns (parts, next_y)."""
     parts, cx, d = [], x, delay
     for it in items:
-        w = len(it) * size * 0.6 + 20
+        w = len(it) * size * FS * 0.6 + 20
         if cx + w > x + maxw:
             cx, y = x, y + h + gap
         parts.append(rise(d, f'<rect x="{cx}" y="{y}" width="{w:.0f}" height="{h}" rx="{h/2}" fill="{{card}}" stroke="{{line}}"/>',
@@ -148,10 +155,16 @@ def chips(x, y, items, maxw, size=11.5, h=24, gap=8, delay=0.0, step=0.04):
     return parts, y + h
 
 
+def spot(x, y, w, h, rx, i, n):
+    """Looping highlight that sweeps one card at a time (GitHub images can't receive real :hover)."""
+    return (f'<rect class="spot" x="{x:.0f}" y="{y}" width="{w:.0f}" height="{h}" rx="{rx}" fill="{{acc}}" fill-opacity=".09" '
+            f'stroke="{{acc}}" stroke-width="2" style="animation-delay:{2 + i * 14 / n:.2f}s"/>')
+
+
 def section(num, label, path):
-    label_w = len(label) * 12.5 + 18
+    label_w = len(label) * 12.5 * FS + 18
     x0 = M + 60 + label_w
-    x1 = W - M - len(path) * 6.8 - 14
+    x1 = W - M - len(path) * 6.8 * FS - 14
     return [
         rise(0.0, t(M, 42, num, 36, "acc", 700)),
         rise(0.1, t(M + 62, 38, label, 12, "fg", 700, 5)),
@@ -193,10 +206,15 @@ def whoami():
     y += 10
     p.append(line(y, delay=d)); y += 14
     for k, v in WHOAMI_ROWS:
-        p.append(rise(d, f'<rect x="{M}" y="{y}" width="{W - 2*M}" height="46" rx="8" fill="{{card}}"/>',
-                      t(M + 18, y + 28, k, 11, "acc", 700, 2),
-                      t(M + 130, y + 28, v, 14, "fg", 400, 0, fam=SANS)))
-        y += 54; d += 0.08
+        ls = textwrap.wrap(v, 88)
+        h = 20 + 24 * len(ls)
+        parts = [f'<rect x="{M}" y="{y}" width="{W - 2*M}" height="{h}" rx="8" fill="{{card}}"/>',
+                 t(M + 18, y + 29, k, 11, "acc", 700, 2)]
+        for j, l in enumerate(ls):
+            parts.append(t(M + 130, y + 29 + j * 22, l, 14, "fg", 400, 0, fam=SANS))
+        p.append(rise(d, *parts))
+        p.append(spot(M, y, W - 2 * M, h, 8, WHOAMI_ROWS.index((k, v)), len(WHOAMI_ROWS)))
+        y += h + 8; d += 0.08
     return p, y + 6
 
 
@@ -212,34 +230,39 @@ def impact():
                       t(cx + 20, cy + 50, big, 38, "acc", 800),
                       t(cx + 20, cy + 76, lab, 14, "fg", 600, 0, fam=SANS),
                       t(cx + 20, cy + 95, sub, 12, "dim", 400, 0, fam=SANS)))
+        p.append(spot(cx, cy, cw, 112, 10, i, len(IMPACT)))
         p.append(f'<rect class="grow" x="{cx + 20:.0f}" y="{cy + 104}" width="{cw - 40:.0f}" height="3" rx="1.5" '
                  f'fill="{{acc}}" opacity=".55" style="animation-delay:{d + 0.4:.2f}s"/>')
-    return p, y + 2 * 124
+    return p, y + ((len(IMPACT) + 3) // 4) * 124
 
 
 def projects():
     p, y = section("03", "PROJECTS", "~/03-projects")
     gap = 14
     cw = (W - 2 * M - gap) / 2
-    ch = 132
+    ch = 140
     d = 0.3
+    total = sum(len(g[1]) for g in PROJECT_GROUPS)
+    k = 0
     for gname, items in PROJECT_GROUPS:
         p.append(rise(d, f'<circle cx="{M + 4}" cy="{y - 4}" r="4" fill="{{acc}}"/>', t(M + 18, y, gname, 12, "fg", 700, 4)))
         y += 20
         for i, (name, desc, tags) in enumerate(items):
             cx, cy = M + (i % 2) * (cw + gap), y + (i // 2) * (ch + gap)
-            lines = textwrap.wrap(desc, 56)[:2]
+            lines = textwrap.wrap(desc, 50)[:2]
             parts = [f'<rect x="{cx:.0f}" y="{cy}" width="{cw:.0f}" height="{ch}" rx="12" fill="{{card}}" stroke="{{line}}"/>',
                      t(cx + 20, cy + 32, name, 16, "fg", 700, 0, fam=SANS)]
             for j, ln in enumerate(lines):
-                parts.append(t(cx + 20, cy + 56 + j * 19, ln, 13, "dim", 400, 0, fam=SANS))
+                parts.append(t(cx + 20, cy + 58 + j * 21, ln, 13, "dim", 400, 0, fam=SANS))
             cx2 = cx + 20
             for tg in tags.split(" · "):
-                w = len(tg) * 6.8 + 18
-                parts.append(f'<rect x="{cx2:.0f}" y="{cy + 94}" width="{w:.0f}" height="22" rx="11" fill="none" stroke="{{acc}}" opacity=".6"/>')
-                parts.append(t(cx2 + w / 2, cy + 109, tg, 11, "acc", 600, 0, "middle", SANS))
+                w = len(tg) * 6.8 * FS + 18
+                parts.append(f'<rect x="{cx2:.0f}" y="{cy + 104}" width="{w:.0f}" height="24" rx="12" fill="none" stroke="{{acc}}" opacity=".6"/>')
+                parts.append(t(cx2 + w / 2, cy + 120, tg, 11, "acc", 600, 0, "middle", SANS))
                 cx2 += w + 8
             p.append(rise(d + (i // 2) * 0.12 + (i % 2) * 0.05, *parts))
+            p.append(spot(cx, cy, cw, ch, 12, k, total))
+            k += 1
         rows = (len(items) + 1) // 2
         y += rows * (ch + gap) + 14
         d += 0.2

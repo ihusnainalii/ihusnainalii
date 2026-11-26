@@ -49,18 +49,24 @@
 </picture>
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ihusnainalii&theme=tokyonight&hide_border=true&background=00000000" alt="streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ihusnainalii&hide_border=true&background=00000000&stroke=30363D&ring=22D3EE&fire=22D3EE&currStreakNum=22D3EE&sideNums=E6EDF3&currStreakLabel=22D3EE&sideLabels=9198A1&dates=9198A1">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihusnainalii&hide_border=true&background=00000000&stroke=D1D9E0&ring=4F46E5&fire=4F46E5&currStreakNum=4F46E5&sideNums=1F2328&currStreakLabel=4F46E5&sideLabels=59636E&dates=59636E" alt="contribution streak" width="80%">
+  </picture>
 </p>
 
 <p align="center">
-  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=ihusnainalii&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" alt="activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ihusnainalii&hide_border=true&area=true&bg_color=00000000&custom_title=Contributions%2C%20last%2031%20days&color=9198A1&line=22D3EE&point=E6EDF3&area_color=22D3EE&title_color=22D3EE">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihusnainalii&hide_border=true&area=true&bg_color=00000000&custom_title=Contributions%2C%20last%2031%20days&color=59636E&line=4F46E5&point=1F2328&area_color=4F46E5&title_color=4F46E5" alt="contribution activity graph" width="95%">
+  </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ihusnainalii/ihusnainalii/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ihusnainalii/ihusnainalii/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ihusnainalii/ihusnainalii/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ihusnainalii/ihusnainalii/output/github-snake.svg" width="95%" />
   </picture>
 </p>
 
@@ -69,7 +75,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=ihusnainalii&no-frame=true&margin-w=8&column=4" alt="trophies" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://trophygithubreadmelang.cybee.dpdns.org/?username=ihusnainalii&theme=darkhub&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=10&title=MultiLanguage,Repositories,Commits,Experience,PullRequest,Stars,Followers,Issues">
+    <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=ihusnainalii&theme=flat&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=10&title=MultiLanguage,Repositories,Commits,Experience,PullRequest,Stars,Followers,Issues" alt="github trophies" width="80%">
+  </picture>
 </p>
 
 <picture>
