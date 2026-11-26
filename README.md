@@ -3,7 +3,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg">
-  <img src="assets/header.svg" alt="Husnain Ali - Principal DevOps Engineer, Platform and iOS Architect" width="100%">
+  <img src="assets/header.svg" alt="Husnain Ali - Principal Software Engineer" width="100%">
 </picture>
 
 <p align="center">
