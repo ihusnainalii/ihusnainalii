@@ -2,8 +2,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg">
-  <img src="assets/header.svg" alt="Husnain Ali - Principal Software Engineer" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg?v=112b40e8">
+  <img src="assets/header.svg?v=112b40e8" alt="Husnain Ali - Principal Software Engineer" width="100%">
 </picture>
 
 <p align="center">
@@ -19,38 +19,38 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg">
-  <img src="assets/whoami.svg" alt="01 whoami" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg?v=112b40e8">
+  <img src="assets/whoami.svg?v=112b40e8" alt="01 whoami" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/impact.svg">
-  <img src="assets/impact.svg" alt="02 impact" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/impact.svg?v=112b40e8">
+  <img src="assets/impact.svg?v=112b40e8" alt="02 impact" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg">
-  <img src="assets/projects.svg" alt="03 projects" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg?v=112b40e8">
+  <img src="assets/projects.svg?v=112b40e8" alt="03 projects" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/opensource.svg">
-  <img src="assets/opensource.svg" alt="04 open source" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/opensource.svg?v=112b40e8">
+  <img src="assets/opensource.svg?v=112b40e8" alt="04 open source" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg">
-  <img src="assets/stack.svg" alt="05 stack" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg?v=112b40e8">
+  <img src="assets/stack.svg?v=112b40e8" alt="05 stack" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/certs.svg">
-  <img src="assets/certs.svg" alt="06 credentials" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/certs.svg?v=112b40e8">
+  <img src="assets/certs.svg?v=112b40e8" alt="06 credentials" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/activity.svg">
-  <img src="assets/activity.svg" alt="07 activity" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/activity.svg?v=112b40e8">
+  <img src="assets/activity.svg?v=112b40e8" alt="07 activity" width="100%">
 </picture>
 
 <p align="center">
@@ -68,8 +68,8 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/writing.svg">
-  <img src="assets/writing.svg" alt="08 writing" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/writing.svg?v=112b40e8">
+  <img src="assets/writing.svg?v=112b40e8" alt="08 writing" width="100%">
 </picture>
 
 <!-- BLOG-POST-LIST:START -->
@@ -81,6 +81,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg">
-  <img src="assets/footer.svg" alt="bridging mobile and cloud" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg?v=112b40e8">
+  <img src="assets/footer.svg?v=112b40e8" alt="bridging mobile and cloud" width="100%">
 </picture>

@@ -340,4 +340,11 @@ if __name__ == "__main__":
                 s = s.replace("{" + k + "}", v)
             with open(out, "w") as f:
                 f.write(s)
-    print("ok", len(PANELS) * 2, "svgs")
+    # cache-bust: GitHub/browsers cache raw SVGs, so version the README references by content hash
+    import glob, hashlib, re
+    h = hashlib.md5(b"".join(open(f, "rb").read() for f in sorted(glob.glob(os.path.join(here, "**", "*.svg"), recursive=True)))).hexdigest()[:8]
+    readme = os.path.join(here, "..", "README.md")
+    txt = open(readme).read()
+    txt = re.sub(r'(assets/(?:dark/)?\w+\.svg)(\?v=\w+)?', rf'\1?v={h}', txt)
+    open(readme, "w").write(txt)
+    print("ok", len(PANELS) * 2, "svgs, cache version", h)
