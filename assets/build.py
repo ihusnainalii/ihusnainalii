@@ -22,7 +22,7 @@ ROLES = [  # header cycles through these
     "Platform Engineer · DevSecOps",
     "AWS DevOps Pro · Claude Certified Architect",
 ]
-FOCUS = "ci/cd · kubernetes · devsecops · swift · aws"
+FOCUS = "ci/cd · kubernetes · devsecops · swift · aws · azure"
 TICKS = ["IOS & SWIFT", "CLOUD & DEVOPS", "PLATFORM ENGINEERING"]
 
 WHOAMI = [
@@ -32,7 +32,7 @@ WHOAMI = [
 ]
 WHOAMI_ROWS = [
     ("MOBILE", "30+ native & hybrid apps across FinTech, Healthcare, Aviation and AR/VR. 4.5+ App Store ratings."),
-    ("DEVOPS", "CI/CD, Infrastructure as Code and cloud-native architecture on AWS."),
+    ("DEVOPS", "CI/CD, Infrastructure as Code and cloud-native architecture on AWS and Azure."),
     ("ARCH", "MVVM-C, Clean, VIPER and TDD. Scaled to 100K+ users at under 2% crash rate."),
     ("SECURITY", "PCI-DSS and HIPAA compliant infrastructure with shift-left scanning."),
     ("NOW", "Going deeper on Kubernetes and Platform Engineering. Writing on Medium."),
@@ -75,7 +75,7 @@ PROJECT_GROUPS = [
 STACK = [
     ("LANGUAGES", "Swift · Objective-C · Python · Bash · Node.js · Dart"),
     ("MOBILE", "SwiftUI · UIKit · Combine · RxSwift · React Native · Flutter · ARKit · CoreML"),
-    ("CLOUD", "AWS · Lambda · Fargate · EKS · S3 · RDS · DynamoDB · Bedrock · SageMaker"),
+    ("CLOUD", "AWS · Azure · Lambda · Fargate · EKS · S3 · RDS · DynamoDB · Bedrock · SageMaker"),
     ("PLATFORM", "Kubernetes · Docker · Helm · Terraform · Terragrunt · Pulumi · ArgoCD · FluxCD"),
     ("CI/CD", "Jenkins · GitHub Actions · GitLab CI · Xcode Cloud · Fastlane"),
     ("SECURITY", "Vault · Keycloak · SonarQube · Trivy · Gitleaks · OWASP · PCI-DSS · HIPAA"),
