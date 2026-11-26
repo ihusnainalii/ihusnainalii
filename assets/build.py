@@ -26,7 +26,7 @@ FOCUS = "ci/cd · kubernetes · devsecops · swift · aws"
 TICKS = ["IOS & SWIFT", "CLOUD & DEVOPS", "PLATFORM ENGINEERING"]
 
 WHOAMI = [
-    "Principal software engineer with 8+ years building scalable systems,",
+    "Principal software engineer with 9+ years building scalable systems,",
     "working where mobile engineering meets cloud and DevOps.",
     "Clean, modular, testable architecture and automated, secure delivery.",
 ]
